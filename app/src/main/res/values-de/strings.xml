@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple DMS</string>
+    <string name="hello_world_button_text">Klick Mich</string>
+    <string name="hello_world_textview_text">Was lauft!!!!????</string>
+</resources>
