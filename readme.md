@@ -1,9 +1,12 @@
-# 2. Android Basics: FindViewById VS DataBinding VS ViewBinding
+# 2. Android Basics: FindViewById VS DataBinding
+
 
 ## Ziel
-Wie manipuliert man das UI einer Android App? 
-Selektion von UI Elementen.
-Click Events.
+- Wie manipuliert man das UI einer Android App?  
+- Selektion von UI Elementen. 
+- Click Events.  
+  - Einblick in ViewBinding
+  - Logging
 
 
 ## Vorkenntnisse
